@@ -1,6 +1,8 @@
 **Privacy Policy**
 
-Jonothan Hunt built the Blur app as a Free app. This SERVICE is provided by Jonothan Hunt at no cost and is intended for use as is.
+This is the privacy policy for apps built by me (Jonothan Hunt). 'SERVICE' refers to any of my apps that feature a link to this policy on their app marketplace page.
+
+This SERVICE is provided by Jonothan Hunt at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
